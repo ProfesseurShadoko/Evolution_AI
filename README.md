@@ -22,6 +22,7 @@ Simply run
 ```
   python run.py
 ```
+and press key 'd' for a demo.
 
 ## Some explanations
 
